@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/DynamesLuis/Advice-generator-app-FM
+- Live Site URL: https://dynamesluis.github.io/Advice-generator-app-FM/
 
 ## My process
 
